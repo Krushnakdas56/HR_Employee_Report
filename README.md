@@ -1,21 +1,23 @@
-The OTT Dashboard is an interactive Power BI report designed to analyze and visualize key metrics related to Over-The-Top (OTT) platform performance. It provides insights into user engagement, content performance, subscription trends, and revenue growth.
+Overview
 
-🚀 Features
+The HR Employee Report provides insights into employee demographics, performance, and organizational health. It supports HR professionals and management in tracking KPIs and workforce trends.
 
-Real-time KPI tracking for users, views, and revenue
+Features
 
-Content performance analysis by genre, region, and platform
+Employee headcount, turnover, and retention rates
 
-Subscription churn and retention visualization
+Departmental performance comparisons
 
-Interactive filters for time period and category
+Diversity and gender distribution metrics
 
-Executive summary with drill-through capability
+Attendance and promotion analytics
+
+Drill-through and slicer filters for dynamic exploration
 
 🧰 Tools & Technologies
 
-Power BI Desktop (.pbix)
+Microsoft Power BI Desktop
 
-Data sources: [Specify here, e.g., SQL Server / Excel / API / CSV]
+Data Sources: Excel, SQL Server, or other HR/OTT datasets (customizable)
 
-Visualizations: Custom charts, KPIs, slicers, trend lines
+Visuals: KPIs, charts, slicers, maps, and trend visuals
